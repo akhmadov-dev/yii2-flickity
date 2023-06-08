@@ -1,0 +1,21 @@
+{
+    "name": "flickity/yii2-flickity",
+    "description": "Touch, responsive, flickable carousils",
+    "type": "yii2-extension",
+    "keywords": ["flickity"," slider"," carousel"," "],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": " Akhmadov Dev",
+            "email": "akhmadovdev@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "flickity\\": ""
+        }
+    }
+}
